@@ -107,7 +107,7 @@ Other Stacks:<br />
 
 #### LANDINGS
 <div alignt="center">
-<img width="320" align="center" src="https://media2.giphy.com/media/UlhALkVFxQeBd4zZan/giphy.gif?cid=790b761197f5ee1816f74e15a0b838dbca95d68b42e1b3b0&rid=giphy.gif&ct=g" /> <img width="320" align="center" src="https://media0.giphy.com/media/KRqhZcHytERq5QUZlh/giphy.gif?cid=790b761181f4b890a57f20de729136eec10095e752300ff0&rid=giphy.gif&ct=g" />
+<img width="320" align="center" src="https://media2.giphy.com/media/UlhALkVFxQeBd4zZan/giphy.gif?cid=790b761197f5ee1816f74e15a0b838dbca95d68b42e1b3b0&rid=giphy.gif&ct=g" /> <img width="320" align="center" src="https://media4.giphy.com/media/y5Mt4ep7nWhIB07K08/giphy.gif?cid=790b7611cc4c1c7a9dd7f3bdf5b24a666290416862516ecf&rid=giphy.gif&ct=g" />
 </div>
 
 ### BOTS
