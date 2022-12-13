@@ -98,7 +98,7 @@ Other Stacks:<br />
 <img width="300" align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lucneonct&repo=EmpleadosMean&theme=react&hide_border=true&show_icons=false&title_color=2091EB"/>
 </a>
 <a href="https://github.com/Lucneonct/EmpleadosMean">
-<img width="320" align="center" src="https://media4.giphy.com/media/fIl6k7bBpmm2gTvzDG/giphy.gif?cid=790b7611236a7a62b1c5831ebe113bea3091961363b210fe&rid=giphy.gif&ct=g" />
+<img width="320" align="center" src="https://media0.giphy.com/media/VDrRGXCXBLg5n40ajI/giphy.gif" />
 </a>
 </div>
 <br /><br />
